@@ -24,20 +24,24 @@ function Main() {
                         </p>
                         <ul className='link'>
                             <li >
-                                <a className='link__item' href='' target="_blank" rel="noreferrer">
+                                <a className='link__item' href='https://t.me/milenium666' target="_blank" rel="noreferrer">
                                     Telegram
                                 </a>
                             </li>
 
-                            {/* Придумать как отпралять на почту при нажатии  */}
                             <li>
-                                <a className='link__item' href='' target="_blank" rel="noreferrer">
+                                <a className='link__item' href='mailto:epadundev@gmail.com' target="_blank" rel="noreferrer">
                                     Email
                                 </a>
                             </li>
                             <li>
                                 <a className='link__item' href='https://github.com/Milenium666' target="_blank" rel="noreferrer">
                                     Github
+                                </a>
+                            </li>
+                             <li>
+                                <a className='link__item' href='https://flowcv.com/resume/3oosldm7mhrm' target="_blank" rel="noreferrer">
+                                    Resume
                                 </a>
                             </li>
                         </ul>
